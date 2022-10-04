@@ -1,8 +1,8 @@
-#Day 10
+Day 10
 
-#Implement a single pass assembler.
+Implement a single pass assembler.
 
-#PROGRAM
+PROGRAM
 
 #include<stdio.h>
  #include<stdlib.h>
